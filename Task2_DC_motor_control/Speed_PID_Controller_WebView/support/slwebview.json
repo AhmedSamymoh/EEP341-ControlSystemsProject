@@ -1,0 +1,26 @@
+{
+ "version":3,
+ "baseUrl":"support/slwebview_files",
+ "homeHid":1,
+ "sections":[
+  {
+   "hid":1,
+   "sid":"Speed_PID_Controller",
+   "name":"Speed_PID_Controller",
+   "fullname":"Speed_PID_Controller",
+   "label":"Speed_PID_Controller",
+   "parent":0,
+   "descendantIDs":[
+   ],
+   "descendantsURL":"support/slwebview_files/Speed_PID_Controller_diagrams_1.json",
+   "sysViewURL":"support/slwebview_files/Speed_PID_Controller_p.json"
+  }
+ ],
+ "optViews":[
+ ],
+ "display":{
+  "informer":false,
+  "notes":false
+ },
+ "iconsUrl":"support/slwebview_files/icon.css"
+}
