@@ -1,0 +1,35 @@
+{
+ "version":3,
+ "baseUrl":"support/slwebview_files",
+ "homeHid":3,
+ "sections":[
+  {
+   "hid":1,
+   "sid":"StateflowOnrampVacuum",
+   "name":"StateflowOnrampVacuum",
+   "fullname":"StateflowOnrampVacuum",
+   "label":"StateflowOnrampVacuum",
+   "parent":0,
+   "descendantIDs":[
+    2,
+    3,
+    4,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ],
+   "descendantsURL":"support/slwebview_files/StateflowOnrampVacuum_diagrams_1.json",
+   "sysViewURL":"support/slwebview_files/StateflowOnrampVacuum_p.json"
+  }
+ ],
+ "optViews":[
+ ],
+ "display":{
+  "informer":false,
+  "notes":false
+ },
+ "iconsUrl":"support/slwebview_files/icon.css"
+}
